@@ -1,6 +1,7 @@
-# Correios Atendente Simulados — Documentos Legais
+# Banco Brasil: Quiz & Simulados — Documentos Legais
 
-Este repositório hospeda os documentos legais do aplicativo **Correios Atendente Simulados**, disponível na Google Play.
+Este repositório hospeda os documentos legais do aplicativo **Banco Brasil: Quiz & Simulados**
+(preparação para o concurso do Banco do Brasil – cargo Agente Comercial), disponível na Google Play.
 
 ## Páginas
 
